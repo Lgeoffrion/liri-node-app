@@ -1,4 +1,5 @@
-console.log('this is loaded');
+// console.log('keys.js is loaded');
+require("dotenv").config();
 
 exports.spotify = {
   id: process.env.SPOTIFY_ID,
