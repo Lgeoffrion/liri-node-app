@@ -1,1 +1,47 @@
-Log
+Band/Artist: The Killers
+Venue Name: Beale Street Music Festival
+Venue Location: Memphis TN United States
+Date/Time: May 5th 2019, 7:00 pm
+
+Band/Artist: The Killers
+Venue Name: Walmart Arkansas Music Pavilion
+Venue Location: Rogers AR United States
+Date/Time: May 6th 2019, 7:00 pm
+
+Band/Artist: The Killers
+Venue Name: The Zoo Amphitheatre
+Venue Location: Oklahoma City OK United States
+Date/Time: May 7th 2019, 7:00 pm
+
+Band/Artist: The Killers
+Venue Name: Forecastle Fest 
+Venue Location: Louisville KY United States
+Date/Time: July 12th 2019, 7:00 pm
+
+Band/Artist: The Killers
+Venue Name: AT&T Stadium
+Venue Location: Arlington TX United States
+Date/Time: May 10th 2019, 8:00 pm
+
+Artist: Avenged Sevenfold
+Song: Hail to the King
+Preview URL: https://p.scdn.co/mp3-preview/98789a401a319f3d9cbae41c6c89630154c0998c?cid=888ffcc4c6954c36bd8f05f6c055f7cd
+Album: Hail to the King
+
+Title: The Fifth Element
+Release Year: 1997
+IMDB Rating: 7.7
+Rotten Tomatoes Rating: 71%
+Produced In: France
+Language: English, Swedish, German, Arabic, Egyptian (Ancient)
+Plot: In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.
+Actors: Bruce Willis, Gary Oldman, Ian Holm, Milla Jovovich
+
+Title: Braveheart
+Release Year: 1995
+IMDB Rating: 8.4
+Rotten Tomatoes Rating: 76%
+Produced In: USA
+Language: English, French, Latin, Scottish Gaelic, Italian
+Plot: When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.
+Actors: James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo
